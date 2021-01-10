@@ -1,2 +1,2 @@
 name = "double"
-name = 'single'
+name = 'single   '
